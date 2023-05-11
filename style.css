@@ -115,13 +115,13 @@ body {
       .choices {
         width: 100%;
         display: flex;
-        justify-content: space-evenly;
+        justify-content: center;
       }
       .content {
         padding-left: 8%;
       }
       .choice {
-        padding: 0;
+        padding: 0 20px;
       }
 
   }
