@@ -115,7 +115,7 @@ body {
       .choices {
         width: 100%;
         display: flex;
-        justify-content: center;
+        justify-content: space-evenly;
       }
       .content {
         padding-left: 8%;
